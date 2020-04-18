@@ -1,4 +1,4 @@
 *.docx
 *pptx
 **/*.ipynb_checkpoints/
-/pretrained_model/*
+/pretrained_model
